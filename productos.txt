@@ -1,0 +1,14 @@
+productos = [
+    {"id": 1,
+    "titulo": "cuaderno",
+    "precio" : 332},
+    
+    {"id": 2,
+    "titulo": "escuadra",
+    "precio" : 312},
+
+    {"id": 3,
+    "titulo": "hojas",
+    "precio" : 212}
+
+]
